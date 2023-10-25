@@ -67,4 +67,4 @@ console.log(square(2));
 
 
 greet('John', 'Wang');        //argument is the actual value of the supply for the parameter
-greet('Lulu', 'Lu'); 
+greet('Lulu', 'Lu');  //Testing a pr from second branch to main
