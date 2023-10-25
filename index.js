@@ -68,3 +68,4 @@ console.log(square(2));
 
 greet('John', 'Wang');        //argument is the actual value of the supply for the parameter
 greet('Lulu', 'Lu');  //Testing a pr from second branch to main
+// to be or not to be, that is the question, whether tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them
