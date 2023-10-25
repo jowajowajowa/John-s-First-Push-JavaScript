@@ -68,7 +68,3 @@ console.log(square(2));
 
 greet('John', 'Wang');        //argument is the actual value of the supply for the parameter
 greet('Lulu', 'Lu'); 
-
-
-git config --global user.email "johnftwang@gmail.com"
-git config --global user.name "jowajowajowa"
